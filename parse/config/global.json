@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Wingle": {
+            "applicationId": "KecCbzbfBtohCU2uuyAozy2s5aEVc2LIdpzwcw2W", 
+            "masterKey": "xDhILlEml8YZ8FrLIf72MTD5bAJSb1XWSjryqEQl"
+        }, 
+        "_default": {
+            "link": "Wingle"
+        }
+    }
+}
